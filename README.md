@@ -7,6 +7,8 @@ Computer Vision
 Machine Learning
 Mobile Communication Systems
 
+[Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_26)<br>
+
 ## Installation
 To get started with this project, follow the steps below:
 
