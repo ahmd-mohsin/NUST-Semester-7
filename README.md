@@ -12,7 +12,7 @@ This repositiory contains my files for semester 7. It contains the following cou
 
 
 ## Installation
-To get started with this project, follow the steps below:
+To get started with downloading this repository, follow the steps below:
 
 - Clone the repository to your local machine using the following command:
 
