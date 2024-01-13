@@ -17,9 +17,8 @@ To get started with downloading this repository, follow the steps below:
 Clone the repository to your local machine using the following command:
 
     ```fish
-    git clone https://github.com/ahmed-mohsin/NUST-Semester-7.git
+    https://github.com/ahmd-mohsin/NUST-Semester-7.git
     ```
-
 ## Changes
 
 For any chnages in the repository, reach my out on my email provided below. love ❤️ from Ahmed.
