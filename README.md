@@ -20,3 +20,7 @@ To get started with downloading this repository, follow the steps below:
     git clone https://github.com/ahmed-mohsin/NUST-Semester-7.git
     ```
 
+## Changes
+
+For any chnages in the repository, reach my out on my email provided below. love ❤️ from Ahmed.
+<a href="ahmedmohsin7338@gmail.com?Subject=Hello%20User"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>
