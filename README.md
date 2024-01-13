@@ -7,7 +7,7 @@ Computer Vision
 Machine Learning
 Mobile Communication Systems
 
-[<img align="right" width="250" height="395" src="[https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-41734-4?as=webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpzwCXD1cuBCXa6duX6U2i4_mdZuQ9hKmb79wF_rl_g&s)"/>](https://nust.edu.pk/)
+[<img align="right" width="250" height="395" src="https://nust.edu.pk/wp-content/uploads/2020/04/ne2.jpg"/>](https://nust.edu.pk/)
 
 ## Installation
 To get started with this project, follow the steps below:
