@@ -7,7 +7,7 @@ Computer Vision
 Machine Learning
 Mobile Communication Systems
 
-[<img align="right" width="250" height="395" src="https://nust.edu.pk/wp-content/uploads/2020/04/ne2.jpg"/>](https://nust.edu.pk/)
+[<img align="right" width="250" height="395" src="[https://nust.edu.pk/wp-content/uploads/2020/04/ne2.jpg](https://crystalpng.com/wp-content/uploads/2022/02/national-university.png)"/>](https://nust.edu.pk/)
 
 ## Installation
 To get started with this project, follow the steps below:
