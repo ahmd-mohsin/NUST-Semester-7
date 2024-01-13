@@ -14,7 +14,7 @@ This repositiory contains my files for semester 7. It contains the following cou
 ## Installation
 To get started with downloading this repository, follow the steps below:
 
-- Clone the repository to your local machine using the following command:
+Clone the repository to your local machine using the following command:
 
     ```fish
     git clone https://github.com/ahmed-mohsin/NUST-Semester-7.git
@@ -23,4 +23,4 @@ To get started with downloading this repository, follow the steps below:
 ## Changes
 
 For any chnages in the repository, reach my out on my email provided below. love ❤️ from Ahmed.
-<a href="ahmedmohsin7338@gmail.com?Subject=Hello%20User"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>
+- <a href="ahmedmohsin7338@gmail.com?Subject=Hello%20User"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>
