@@ -7,7 +7,7 @@ Computer Vision
 Machine Learning
 Mobile Communication Systems
 
-[<img align="right" width="250" height="395" src="https://crystalpng.com/wp-content/uploads/2022/02/national-university.png"/>](https://nust.edu.pk/)
+[<img align="right" width="250" height="250" src="https://crystalpng.com/wp-content/uploads/2022/02/national-university.png"/>](https://nust.edu.pk/)
 
 
 
